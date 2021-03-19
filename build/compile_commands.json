@@ -1,0 +1,57 @@
+[
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\main.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\main.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/main.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\functions.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\functions.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/functions.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\solver.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\solver.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/solver.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\gridData.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\gridData.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/gridData.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\getMeshData.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\getMeshData.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/getMeshData.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\setInitialCondition.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\setInitialCondition.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/setInitialCondition.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\FVM_INSE.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\FVM_INSE.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/FVM_INSE.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\setBound.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\setBound.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/setBound.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\output.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\output.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/output.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\calculateTimeStep.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\calculateTimeStep.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/calculateTimeStep.cpp"
+},
+{
+  "directory": "C:/Development/FVM/FVMgithub/INS_FVM_AC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\FVMexe.dir\\viscidFlux.cpp.obj -c C:\\Development\\FVM\\FVMgithub\\INS_FVM_AC\\viscidFlux.cpp",
+  "file": "C:/Development/FVM/FVMgithub/INS_FVM_AC/viscidFlux.cpp"
+}
+]
